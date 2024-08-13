@@ -33,7 +33,7 @@ function Form() {
       <label>Physical Address:</label>
       <textarea id="uaddr" name="uaddr" rows="4" cols="35" placeholder="Enter Your Address" ></textarea>{" "}
       <br />
-      <button onClick={Display_Details}>Submit</button>
+      <button onClick={Display_Form}>Submit</button>
     </>
   );
 }
