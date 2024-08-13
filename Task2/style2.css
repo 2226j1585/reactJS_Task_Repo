@@ -1,0 +1,41 @@
+.model2{
+    background-image:url(./Components/Task2/image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 620px;
+    margin-top: 0%;
+}
+.text{
+    font-size: 50px;
+    padding-top: 200px;
+    color:white;
+    text-align: center;
+}
+.like{
+    margin-left:460px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background-color: orange;
+    margin-right: 30px;
+    height:35px;
+    width:100px;
+}
+.comment{
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    height:40px;
+    background-color: white;
+    margin-right: 30px;
+    width: 130px;
+}
+.share{
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    height: 35px;
+    background-color: blue;
+    margin-right: 30px;
+    width:100px;
+}
