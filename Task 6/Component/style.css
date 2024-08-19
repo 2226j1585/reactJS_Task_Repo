@@ -1,0 +1,70 @@
+.back6{
+    padding: 8%;
+    background-image: url('https://img.freepik.com/free-vector/abstract-geometric-hexagonal-medical_1017-15002.jpg?t=st=1724007613~exp=1724011213~hmac=6a3e5226bbbcc330fd76c93091247e6573bdb5f3761c9222f6b6335321ceebe2&w=900');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin-top: 1%;
+}
+.back62{
+    height: 1%;
+    border-style: double;
+    border-color: rgb(249, 249, 249);
+    border-radius: 10%;
+    background-color: rgb(249, 249, 249);
+    margin-left: 30%;
+    width: 40%;
+    text-align: center;
+}
+ 
+.six61{
+    background-color: white;
+    padding: 3%;
+    margin-left: 14%;
+    margin-top: 1%;
+    box-shadow: 0 -1px 10px red;
+    border-radius: 10%;
+    
+}
+.img61{
+    width: 110%;
+}
+
+.six62{
+    background-color: white;
+    padding: 3%;
+    margin-left: 5%;
+    margin-top: 1%;
+    box-shadow: 0 -1px 20px blue;
+    border-radius: 10%;
+    
+}
+.img62{
+    width: 80%;
+}
+
+.six63{
+    background-color: white;
+    padding: 3%;
+    margin-left: 14%;
+    margin-top: 5%;
+    box-shadow: 0 -1px 20px green;
+    border-radius: 10%;
+    
+}
+.img63{
+    width: 80%;
+}
+
+.six64{
+    background-color: white;
+    padding: 3%;
+    margin-left: 5%;
+    margin-top: 5%;
+    box-shadow: 0 -1px 20px yellow;
+    border-radius: 10%;
+    
+}
+.img64{
+    width: 80%;
+}
